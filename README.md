@@ -4,7 +4,7 @@
 
 -   Hardhat
 -   NextJS
--   SeaportJS
+-   [SeaportJS](https://github.com/ProjectOpenSea/seaport-js)
 -   Ethers
 -   Tailwind
 -   Prettier
