@@ -1,14 +1,15 @@
-# Frontend + Smart Contracts Monorepo
+# [Still in development] Playground to interact with Seaport 
 
 ## What's inside
 
 -   Hardhat
 -   NextJS
+-   SeaportJS
 -   Ethers
 -   Tailwind
 -   Prettier
 -   Solhint
--   ESlint
+-   ESlintx
 
 ## Run frontend
 
